@@ -76,3 +76,7 @@ git add .
 git commit -m "Deployment fix: clean scripts and yaml"
 git push origin main
 npm install serve
+git add .
+git commit -m "Switch to serve for faster startup on port 8080"
+git push origin main
+npm install serve
