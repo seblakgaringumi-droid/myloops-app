@@ -69,3 +69,6 @@ git commit -m "Add explicit start script to apphosting yaml"
 git push origin main
 git commit -m "Add explicit start script to apphosting yaml"
 git push origin main
+git add .
+git commit -m "Fix package.json syntax and production port"
+git push origin main
