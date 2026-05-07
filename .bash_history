@@ -51,3 +51,9 @@ node_modules/
 .gemini/
 dist/
 build/" > .gitignore
+git init
+git add .
+git commit -m "Fresh initial commit MyLoops"
+git branch -M main
+git remote add origin https://github.com/seblakgaringumi-droid/myloops-app.git
+git push -u origin main --force
