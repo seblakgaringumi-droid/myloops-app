@@ -83,3 +83,6 @@ npm install serve
 git add .
 git commit -m "Switch to serve for production stability"
 git push origin main
+git add .
+git commit -m "Switch to serve for production stability"
+git push origin main
