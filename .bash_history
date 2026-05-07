@@ -184,3 +184,38 @@ export default App;
 EOF
 
 npm run build
+git add .
+git commit -m "Final build success: MyLoops is ready to fly"
+git push origin main
+npm install leaflet react-leaflet
+git push origin main
+Git Push
+npm run build
+npx vite --host 0.0.0.0
+rm -rf dist
+npm run build
+git push
+rm -rf dist
+npm run build
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run build
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run build
+npx cap sync
+npm run build
+clear
+npm install -D tailwindcss postcss autoprefixer
+npm run build
+npx tailwindcss init -p
+rm -rf dist
+npm run build
+npm install leaflet react-leaflet
+npm run build
+git push origin main
+git add .
+git commit -m
+git push origin main
