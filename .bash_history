@@ -72,3 +72,7 @@ git push origin main
 git add .
 git commit -m "Fix package.json syntax and production port"
 git push origin main
+git add .
+git commit -m "Deployment fix: clean scripts and yaml"
+git push origin main
+npm install serve
