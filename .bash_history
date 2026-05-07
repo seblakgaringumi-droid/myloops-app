@@ -57,3 +57,6 @@ git commit -m "Fresh initial commit MyLoops"
 git branch -M main
 git remote add origin https://github.com/seblakgaringumi-droid/myloops-app.git
 git push -u origin main --force
+git add .
+git commit -m "Fix port configuration for deployment"
+git push origin main
