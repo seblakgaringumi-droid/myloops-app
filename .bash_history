@@ -64,3 +64,8 @@ git add .
 git commit -m "Final fix: Set port 8080 and host in package.json and apphosting.yaml"
 git push origin main
 git add
+git add .
+git commit -m "Add explicit start script to apphosting yaml"
+git push origin main
+git commit -m "Add explicit start script to apphosting yaml"
+git push origin main
