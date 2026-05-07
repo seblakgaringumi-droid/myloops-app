@@ -80,3 +80,6 @@ git add .
 git commit -m "Switch to serve for faster startup on port 8080"
 git push origin main
 npm install serve
+git add .
+git commit -m "Switch to serve for production stability"
+git push origin main
