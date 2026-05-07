@@ -219,3 +219,9 @@ git push origin main
 git add .
 git commit -m
 git push origin main
+git add .
+git commit -m "Update Radar UI with Satellite Map and Tailwind"
+git push origin main
+npm run build
+npm install react-leaflet leaflet lucide-react
+npm run build
