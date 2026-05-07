@@ -1,0 +1,24 @@
+2026-04-29 04:49:14.805 [info] Extension host with pid 1578 started
+2026-04-29 04:49:14.805 [error] Error: EEXIST: file already exists, open '/home/seblakgaringumi/.codeoss/data/User/workspaceStorage/-407030d0/vscode.lock'
+2026-04-29 04:49:14.806 [info] Lock '/home/seblakgaringumi/.codeoss/data/User/workspaceStorage/-407030d0/vscode.lock': Could not acquire lock, checking if the file is stale.
+2026-04-29 04:49:14.809 [info] Lock '/home/seblakgaringumi/.codeoss/data/User/workspaceStorage/-407030d0/vscode.lock': The lock does not look stale, elapsed: 953 ms, giving up.
+2026-04-29 04:49:14.850 [info] Lock '/home/seblakgaringumi/.codeoss/data/User/workspaceStorage/-407030d0-1/vscode.lock': Lock acquired.
+2026-04-29 04:49:15.202 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-29 04:49:15.204 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2026-04-29 04:49:15.205 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-29 04:49:17.872 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-29 04:49:18.177 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.isAuthorized'
+2026-04-29 04:49:18.211 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-29 04:49:18.211 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-29 04:49:18.553 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-29 04:49:18.557 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-29 04:49:18.558 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-29 04:49:18.871 [info] Eager extensions activated
+2026-04-29 04:49:18.871 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-04-29 04:49:18.872 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-29 04:49:18.872 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-04-29 04:49:18.872 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-29 04:49:19.629 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-29 05:23:01.128 [info] Extension host terminating: received terminate message from renderer
+2026-04-29 05:23:01.131 [info] Lock '/home/seblakgaringumi/.codeoss/data/User/workspaceStorage/-407030d0-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-04-29 05:23:01.305 [info] Extension host with pid 1578 exiting with code 0
