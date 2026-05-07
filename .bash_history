@@ -60,3 +60,7 @@ git push -u origin main --force
 git add .
 git commit -m "Fix port configuration for deployment"
 git push origin main
+git add .
+git commit -m "Final fix: Set port 8080 and host in package.json and apphosting.yaml"
+git push origin main
+git add
