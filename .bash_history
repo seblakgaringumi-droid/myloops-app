@@ -86,3 +86,6 @@ git push origin main
 git add .
 git commit -m "Switch to serve for production stability"
 git push origin main
+git add .
+git commit -m "Final fix: Explicit build and run commands in apphosting.yaml"
+git push origin main
